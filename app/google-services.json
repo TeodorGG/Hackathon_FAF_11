@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "983760149045",
+    "firebase_url": "https://reconecting-bded6-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "reconecting-bded6",
+    "storage_bucket": "reconecting-bded6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983760149045:android:d4d8b39f1bbb34ccfc2f7c",
+        "android_client_info": {
+          "package_name": "md.ia.amazing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983760149045-8agnr8otvn2e6emudmbtja1l4qaa4es7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "md.ia.amazing_app",
+            "certificate_hash": "0a6a90363646e93dd905f68ccafde16a4d361a03"
+          }
+        },
+        {
+          "client_id": "983760149045-4058336qkmlq3trrgcsv4dhii5a1ikr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaqFa5Jj9AlvyXLL9RfU-JCgZ9oD8Z7M8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983760149045-4058336qkmlq3trrgcsv4dhii5a1ikr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
